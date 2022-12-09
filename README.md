@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning Flutter and React
 - 💞️ I’m looking to collaborate on mobile app development
-- 📫 Hit me up on @daffarestupratama
+- 📫 Hit me up in instagram or line with id @daffarestupratama
 
 <!---
 daffarestupratama/daffarestupratama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
