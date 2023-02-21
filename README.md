@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daffarestupratama
+- 👋 Hey there! I’m @daffarestupratama
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning Flutter and React
 - 💞️ I’m looking to collaborate on mobile app development
